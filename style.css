@@ -46,10 +46,11 @@ h1 {
     gap:2px;
     max-width:15.63em;
     background-color:blue;
-    margin-top:30px;
+    margin-top:10px;
     border-style:solid;
     border-width:5px;
     border-color:blue;
+    margin-bottom:5px;
     
     
     
@@ -70,4 +71,9 @@ h1 {
     display:flex;
     justify-content:center;
     gap:.5em;
+    margin-bottom:5px;
+}
+
+#textarea {
+    resize:none;
 }
