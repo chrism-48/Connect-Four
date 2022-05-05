@@ -1,0 +1,22 @@
+{
+  "name": "connect-four",
+  "version": "1.0.0",
+  "description": "Connect Four",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrism-48/Connect-Four.git"
+  },
+  "author": "Chris Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrism-48/Connect-Four/issues"
+  },
+  "homepage": "https://github.com/chrism-48/Connect-Four#readme",
+  "dependencies": {
+    "dragula": "^3.7.3"
+  }
+}
